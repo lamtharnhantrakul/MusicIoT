@@ -33,11 +33,11 @@ First head over to **audio MIDI setup**, you can search for this using spotlight
 
 ![alt text](https://github.com/lamtharnhantrakul/MusicIoT/blob/master/img/IAC%20Driver.png)
 
-In Ableton Live, ensure that the MIDI channel is has **MIDI From** set to **IAC Driver (IAC Bus)**(
+In Ableton Live, ensure that the MIDI channel has **MIDI From** set to **IAC Driver (IAC Bus)**
 
 ![alt text](https://github.com/lamtharnhantrakul/MusicIoT/blob/master/img/Ableton%20Channel%20Strip.png)
 
-Load up a drum kit and jam away over the internet!
+Load up a drum kit and jam away! Your MIDI Fighter is now IoT enabled!
 
 
 
