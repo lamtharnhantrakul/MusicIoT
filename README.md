@@ -28,3 +28,16 @@ $ pip install mido
 ```
 
 # Connecting to Ableton Live
+
+First head over to **audio MIDI setup**, you can search for this using spotlight in Mac OSX (Windows users will need to use an alternative like virtualMIDI). Ensure that the red **IAC Driver** is **enabled**.
+
+![alt text](https://github.com/lamtharnhantrakul/MusicIoT/blob/master/img/IAC%20Driver.png)
+
+In Ableton Live, ensure that the MIDI channel is has **MIDI From** set to **IAC Driver (IAC Bus)**(
+
+![alt text](https://github.com/lamtharnhantrakul/MusicIoT/blob/master/img/Ableton%20Channel%20Strip.png)
+
+Load up a drum kit and jam away over the internet!
+
+
+
