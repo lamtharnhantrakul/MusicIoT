@@ -11,7 +11,20 @@ This project connects a DJ Tech Tools Midi Fighter 3D (https://store.djtechtools
 
 1. A teacher can broadcast midi messages on the publisher Midi Fighter to a number of subscriber Midi Fighter owned by students in different countries. The messages are relayed on the musical instrument interface itself, as opposed to a video intermediate. 
 2. In idle state, the Midi Fighter can inform owner of other user's activities (practising, performing, improvising) through the musical instrument itself. 
-3. Databese of symbolic notation of music (i.e MIDI) pale in comparison to available databases of music audio (ie. mp3, WAV). Imagine if every midi-enabled device constantly streams it messages to a cloud server where a "machine listening" algorithm runs through this data.  
+3. Databese of symbolic notation of music (i.e MIDI) pale in comparison to available databases of music audio (ie. mp3, WAV). Imagine if every midi-enabled device constantly streams its messages to a cloud server in this manner. Then a "machine listening" algorithm can run through this data.  
 
 # Getting started
 
+In addition to installing the pubnub [python API](https://www.pubnub.com/docs/python/pubnub-python-sdk), you will need also need rtmidi and mido.
+
+To install rtmidi (for capturing real-time midi messages)
+```python
+$ pip install python-rtmidi
+```
+
+To install mido (for capturing real-time midi messages)
+```python
+$ pip install mido
+```
+
+# Connecting to Ableton Live
