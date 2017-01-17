@@ -44,7 +44,7 @@ def _callback(message, channel):
                                       note=message["note"],
                                       velocity=127))
 
-    # 144 correponds to a "note_off" message
+    # 128 correponds to a "note_off" message
     elif message['type'] == 128:
          # Send MIDI data to IAC bus
         output_IAC.send(mido.Message('note_off',
