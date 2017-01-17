@@ -1,3 +1,7 @@
+# DEMO VIDEO!
+Check out the video here!
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)]https://www.youtube.com/watch?v=svLImSlHAvk&t=162s
+
 # MusicIoT
 
 This project connects a DJ Tech Tools Midi Fighter 3D (https://store.djtechtools.com/products/midi-fighter-3d) to the PubNub infrastructure. It re-imagines what a musical instrument can be in the age of IoT - what if musical instruments were connected to the internet 24/7? What new kinds of interactions would this enable? This project implements the following features:
