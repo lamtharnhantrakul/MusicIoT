@@ -1,6 +1,6 @@
 # DEMO VIDEO!
 Check out the video here!
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)]https://www.youtube.com/watch?v=svLImSlHAvk&t=162s
+[Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=svLImSlHAvk&t=162s)
 
 # MusicIoT
 
