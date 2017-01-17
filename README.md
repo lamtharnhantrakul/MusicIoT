@@ -1,5 +1,5 @@
 # Music MIDIoT
-Check out the video here!
+Check out the demo video here!
 [![Video link](https://github.com/lamtharnhantrakul/MusicIoT/blob/master/img/Screenshot.png)](https://www.youtube.com/watch?v=svLImSlHAvk&t=162s)
 
 # About
